@@ -1,10 +1,10 @@
 ## 👋 Olá! Me chamo Carlos
 
-- 🎓 **Estudante de Estatística** (UFSCar) no último ano  
-- 💻 **Desenvolvedor Full Stack** com foco em análise de dados  
-- 🐍 Experiência em **Python**, **R**, **SQL**  
-- 🎮 Gosto de aplicar meus conhecimentos em **projetos relacionados a jogos** e dados de games  
-- 🚀 Sempre buscando **novos desafios** e aprendizado na interseção entre tecnologia e estatística  
+👨‍💻 Cientista de Dados & Engenheiro de Software | Python | ML | Cloud
+📊 Formado em Estatística pela UFSCar criando soluções baseadas em dados
+🛠️ Habilidades: Python/R • SQL • TensorFlow/PyTorch • Azure • Docker/K8s
+🔍 Projetos atuais: IA generativa • Pipelines de dados • Otimização
+📫 Vamos colaborar: carloshmeo@gmail.com
 
 ---
 
