@@ -1,12 +1,12 @@
 ## 👋 Olá! Me chamo Carlos
 
-👨‍💻 Cientista de Dados & Engenheiro de Software | Python | ML | Cloud
+👨‍💻 Cientista de Dados & Engenheiro de Software
 
 📊 Formado em Estatística pela UFSCar criando soluções baseadas em dados
 
 🛠️ Habilidades: Python/R • SQL • TensorFlow/PyTorch • Azure • Docker/K8s
 
-🔍 Projetos atuais: IA generativa • Pipelines de dados • Otimização
+🔍 Um pouco sobre mim: Gosto muito de videogames e, em geral, meus projetos são uma mesclagem de Analytics/Computação/Jogos :D
 
 📫 Vamos colaborar: carloshmeo@gmail.com
 
