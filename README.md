@@ -1,6 +1,6 @@
 ## 👋 Hi! My name is Carlos  
 
-👨‍💻 Data Scientist & Software Engineer  
+👨‍💻 Data Scientist & Data Engineer  
 
 - Graduate in Statistics from UFSCar, building data-driven solutions  
 - Skills: Python/R • SQL • TensorFlow/PyTorch • Azure • Docker/K8s  
