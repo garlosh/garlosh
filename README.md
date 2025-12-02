@@ -1,15 +1,12 @@
-## 👋 Olá! Me chamo Carlos
+## 👋 Hi! My name is Carlos  
 
-👨‍💻 Cientista de Dados & Engenheiro de Software
+👨‍💻 Data Scientist & Software Engineer  
 
-📊 Formado em Estatística pela UFSCar criando soluções baseadas em dados
+- Graduate in Statistics from UFSCar, building data-driven solutions  
+- Skills: Python/R • SQL • TensorFlow/PyTorch • Azure • Docker/K8s  
+- A little about me: I really enjoy video games, and in general, my projects blend Analytics/Computing/Gaming :D  
+- Let's collaborate: carloshmeo@gmail.com  
 
-🛠️ Habilidades: Python/R • SQL • TensorFlow/PyTorch • Azure • Docker/K8s
-
-🔍 Um pouco sobre mim: Gosto muito de videogames e, em geral, meus projetos são uma mesclagem de Analytics/Computação/Jogos :D
-
-📫 Vamos colaborar: carloshmeo@gmail.com
-
----
+---  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/carlos-de-meo-ba80b2239) | 📧 [carloshmeo@gmail.com](mailto:carloshmeo@gmail.com)
